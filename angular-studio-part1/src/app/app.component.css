@@ -1,0 +1,25 @@
+.box {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    
+ }
+
+ * {
+    background-color: rgba(50, 192, 220, 0.985);
+    
+    
+ }
+
+ :host {
+    color: whitesmoke;
+   
+    
+    
+ }
+
+ .mars {
+    max-width: 40%;
+    height: auto;
+    align-content: center;
+ }
